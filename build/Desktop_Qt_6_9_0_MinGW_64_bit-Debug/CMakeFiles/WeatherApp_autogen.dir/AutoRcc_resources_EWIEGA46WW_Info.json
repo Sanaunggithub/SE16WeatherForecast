@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "C:/Users/USER/Downloads/WeatherForecast-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/WeatherApp_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/USER/Downloads/WeatherForecast-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/USER/Downloads/WeatherForecast-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/USER/Downloads/WeatherForecast-main",
+	"CMAKE_SOURCE_DIR" : "C:/Users/USER/Downloads/WeatherForecast-main",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "C:/Users/USER/Downloads/WeatherForecast-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/WeatherApp_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/USER/Downloads/WeatherForecast-main/snowy.png",
+		"C:/Users/USER/Downloads/WeatherForecast-main/foggy.png",
+		"C:/Users/USER/Downloads/WeatherForecast-main/rainy.png",
+		"C:/Users/USER/Downloads/WeatherForecast-main/sunny.png",
+		"C:/Users/USER/Downloads/WeatherForecast-main/wind.png",
+		"C:/Users/USER/Downloads/WeatherForecast-main/thunder.png",
+		"C:/Users/USER/Downloads/WeatherForecast-main/cloudy.png",
+		"C:/Users/USER/Downloads/WeatherForecast-main/humidity.png"
+	],
+	"LOCK_FILE" : "C:/Users/USER/Downloads/WeatherForecast-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/WeatherApp_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.9.0/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/USER/Downloads/WeatherForecast-main/build/Desktop_Qt_6_9_0_MinGW_64_bit-Debug/CMakeFiles/WeatherApp_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/USER/Downloads/WeatherForecast-main/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

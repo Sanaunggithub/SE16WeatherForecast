@@ -1,0 +1,9 @@
+/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/WeatherApp.dir
+/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/install.dir
+/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/WeatherApp_autogen_timestamp_deps.dir
+/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/WeatherApp_autogen.dir

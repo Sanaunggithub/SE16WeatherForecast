@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/WeatherApp_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/phonemyatpyaesone/Documents/WeatherApp",
+	"CMAKE_SOURCE_DIR" : "/Users/phonemyatpyaesone/Documents/WeatherApp",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/WeatherApp_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/phonemyatpyaesone/Documents/WeatherApp/snowy.png",
+		"/Users/phonemyatpyaesone/Documents/WeatherApp/foggy.png",
+		"/Users/phonemyatpyaesone/Documents/WeatherApp/rainy.png",
+		"/Users/phonemyatpyaesone/Documents/WeatherApp/sunny.png",
+		"/Users/phonemyatpyaesone/Documents/WeatherApp/wind.png",
+		"/Users/phonemyatpyaesone/Documents/WeatherApp/thunder.png",
+		"/Users/phonemyatpyaesone/Documents/WeatherApp/cloudy.png",
+		"/Users/phonemyatpyaesone/Documents/WeatherApp/humidity.png"
+	],
+	"LOCK_FILE" : "/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/WeatherApp_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/Users/phonemyatpyaesone/Qt/6.8.2/macos/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/CMakeFiles/WeatherApp_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/Users/phonemyatpyaesone/Documents/WeatherApp/resources.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

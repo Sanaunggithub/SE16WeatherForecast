@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_WeatherApp_FILE /Users/phonemyatpyaesone/Documents/WeatherApp/build/Qt_6_8_2_for_macOS-Debug/WeatherApp.app/Contents/MacOS/WeatherApp)
+set(__QT_DEPLOY_TARGET_WeatherApp_TYPE EXECUTABLE)
